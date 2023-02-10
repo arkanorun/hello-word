@@ -1,1 +1,1 @@
-# hello-word
+#esta é a primeira atividade da cubos academy, utilizar os comandos básicos para clonar e fazer push de arquivos do github para o vs code e vice versa.
